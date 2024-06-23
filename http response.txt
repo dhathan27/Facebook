@@ -1,5 +1,5 @@
 Vishnu Dhathan, [20-06-2024 22:05]
-HTTP response status codes
+HTTP response status codes updated
 
 HTTP response status codes indicate whether a specific HTTP request has been successfully completed. Responses are grouped in five classes:
 
